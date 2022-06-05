@@ -12,4 +12,4 @@ Coming soon.
 
 ### Contact me
 
-[Email me](mailto:stephen@stephenjkennedy.me)
+[Email me](mailto:Stephen@stephenkennedy.me)
